@@ -14,10 +14,27 @@ h1 {
     margin: 4px 2px;
     cursor: pointer;
   }
+  .buttonB {
+    background-color: #2e2edd;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
   .center {
     margin: auto;
     width: 50%;
     height: 10em  ;
     /* border: 3px solid green; */
     padding: 10px;
+  }
+  .icon
+  {
+    margin: 4px 2px; 
+    padding: 15px 32px;
   }
